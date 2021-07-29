@@ -1,2 +1,2 @@
-# C-Lisanslama-Sistemi
+# C++-Lisanslama-Sistemi
 Online Lisanslama sistemi
