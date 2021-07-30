@@ -18,8 +18,6 @@
 #pragma comment(lib, "user32.lib")
 using namespace std;
 
-using namespace std;
-
 string key, mixing, mixed;
 
 template< typename ... Args >
