@@ -1,2 +1,2 @@
 # Online licensing system
-Çevrimiçi Lisanslama sistemi
+Çevrim içi Lisanslama sistemi
