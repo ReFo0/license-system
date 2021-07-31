@@ -1,2 +1,2 @@
-# C++-Lisanslama-Sistemi
-Online Lisanslama sistemi
+# Online licensing system
+Çevrimiçi Lisanslama sistemi
