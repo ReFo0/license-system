@@ -16,11 +16,11 @@ void lisanskontrol() {
     }
     string strResult = ss.str();
     if (strResult == mixed) {
-        cout << "Lisans Anahtarı Onaylandı";
+        cout << "License Active";
 		std::cin.get();
     }
     else {
-        cout << "Lisans Anahtarı Onaylanamadı";
+        cout << "Failed to confirm license key ";
 		std::cin.get();
     }
 }
